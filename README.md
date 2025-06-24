@@ -1,2 +1,2 @@
 # Web-Dev-Portfolio
-A responsive web developer portfolio showcasing my projects, skills, and experience. Built with HTML, CSS, and JavaScript, it includes an interactive project gallery, smooth animations, and a clean design. Ideal for sharing with potential clients, recruiters, or collaborators.
+The responsive web developer portfolio showcasing my (Ritvik Nayak's) projects, skills, and experience. Its built with HTML, CSS, and JavaScript. It includes an interactive project gallery, smooth animations, and a clean design, which are all ideal for sharing with potential clients, recruiters, or collaborators.
